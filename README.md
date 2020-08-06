@@ -2,7 +2,6 @@
 This dumb app detects face in a photo and place onto Thomas the tank engine
 <br></br>
 Usage: (in the directory) python main.py "FilePath" "CropRadiusScale" <br></br>
-arguments are both optional (if you just wanna see Donald Trump as Thomas) <br></br>
 Example:
 This is a input image
 <br></br>
