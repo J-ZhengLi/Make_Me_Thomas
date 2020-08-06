@@ -1,20 +1,18 @@
 # Make_Me_Thomas
 This dumb app detects face in a photo and place onto Thomas the tank engine
 
-Dependencies
+Dependencies:
 
 Pillow  (pip install Pillow)
 
 cv2     (pip install opencv-python)
 
 numpy
-
 <br></br>
-
-Usage: (in the directory) python main.py <FilePath> <CropRadiusScale>
-  arguments are both optional (if you just wanna see Donald Trump as Thomas,
-  CropRadiusScale determains the face ragion of your image, adjust it for the best result
-  
+Usage: (in the directory) python main.py "FilePath" "CropRadiusScale"
+arguments are both optional (if you just wanna see Donald Trump as Thomas,
+CropRadiusScale determains the face ragion of your image, adjust it for the best result
+<br></br>
 Example:
 This is a input image
 <br></br>
