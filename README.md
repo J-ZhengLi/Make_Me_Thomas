@@ -2,9 +2,9 @@
 This dumb app detects face in a photo and place onto Thomas the tank engine
 
 Dependencies:
-  Pillow  (pip install Pillow) <br></br>
-  cv2     (pip install opencv-python) <br></br>
-  numpy
+Pillow  (pip install Pillow)
+cv2     (pip install opencv-python)
+numpy
 
 Usage: (in the directory) python main.py <FilePath> <CropRadiusScale>
   arguments are both optional (if you just wanna see Donald Trump as Thomas,
